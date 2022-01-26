@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @CheinTian
+- 🦊🦊🦊
+- Cloud Nativer,DevxOps
