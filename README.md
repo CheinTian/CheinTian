@@ -8,7 +8,6 @@
 <a href="https://app.daily.dev/maxt"><img align="right" src="https://api.daily.dev/devcards/v2/kTmo3GisVKJpFpTtju6k3.png?r=623" width="180" alt="Max's Dev Card"/></a>
 
 
-- 🔭 I’m currently working on **极狐GitLab**
 
 - 🌱 I’m currently learning **Everything**
 
