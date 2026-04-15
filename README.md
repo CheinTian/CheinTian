@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 Do it, Do it right, Do it better.
 
 - 📫 How to reach me **devops@bigbige.com**
 
